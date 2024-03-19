@@ -1,0 +1,22 @@
+:root {
+    --ligth-grey: #F5F5F5;
+    --blue: #87CEEB;
+    --green: #32CD32;
+    --gold: #FFD700;
+  }
+
+
+body { 
+    background-color:   var(--ligth-grey); 
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.first-title{
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5rem;
+    text-align: center;
+}
